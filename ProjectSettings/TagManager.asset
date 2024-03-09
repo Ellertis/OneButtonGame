@@ -8,6 +8,10 @@ TagManager:
   - EnemyProjectile
   - EnemyProjectileSpawn
   - PlayerProjectile
+  - Phase1
+  - Phase2
+  - Phase3
+  - EnemyProjectileSpawnPoint
   layers:
   - Default
   - TransparentFX
