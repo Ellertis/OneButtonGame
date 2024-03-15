@@ -12,6 +12,7 @@ TagManager:
   - Phase2
   - Phase3
   - EnemyProjectileSpawnPoint
+  - PlayerGhost
   layers:
   - Default
   - TransparentFX
