@@ -12,7 +12,8 @@ TagManager:
   - Phase2
   - Phase3
   - EnemyProjectileSpawnPoint
-  - PlayerGhost
+  - PlayerGhostORB1
+  - PlayerGhostORB2
   layers:
   - Default
   - TransparentFX
