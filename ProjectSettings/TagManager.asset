@@ -15,6 +15,7 @@ TagManager:
   - PlayerGhostORB1
   - PlayerGhostORB2
   - Shockwave
+  - Obstacle
   layers:
   - Default
   - TransparentFX
