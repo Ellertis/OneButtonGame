@@ -16,6 +16,7 @@ TagManager:
   - PlayerGhostORB2
   - Shockwave
   - Obstacle
+  - EnemyLaserSpawn
   layers:
   - Default
   - TransparentFX
